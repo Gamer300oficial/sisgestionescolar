@@ -1,0 +1,21 @@
+<?php
+include ('../app/config.php');
+include ('../admin/layout/parte1.php');
+?>
+
+  <div class="content-wrapper">
+    <br>
+    <div class="content">
+      <div class="container">
+        <div class="row">
+          <h1>Vista Principal</h1>
+        </div>
+      </div>
+    </div>
+  </div>
+
+<?php 
+
+include ('../admin/layout/parte2.php');
+include ('../layout/mensajes.php');
+?>
