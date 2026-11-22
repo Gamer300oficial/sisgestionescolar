@@ -1,8 +1,8 @@
 <?php
 
-define('SERVIDOR','localhost');
-define('USUARIO','root');
-define('PASSWORD','matos120');
+define('SERVIDOR','db.fr-roub1.bengt.wasmernet.com');
+define('USUARIO','user_6c1fce9a');
+define('PASSWORD','pw_OnVFiNPtnyWPDYPxkCzr5sbdy2xVBdF0');
 define('BD','sisgestionescolar');
 
 define('APP_NAME','SITEMA DE GESTIÓN ESCOLAR');
