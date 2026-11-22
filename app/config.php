@@ -6,7 +6,7 @@ define('PASSWORD','pw_OnVFiNPtnyWPDYPxkCzr5sbdy2xVBdF0');
 define('BD','sisgestionescolar');
 
 define('APP_NAME','SITEMA DE GESTIÓN ESCOLAR');
-define('APP_URL','http://localhost/sisgestionescolar/');
+define('APP_URL','https://sisgestionescolar.wasmer.app/');
 define('KEY_API_MAPS','');
 
 $servidor = "mysql:dbname=".BD.";host=".SERVIDOR;
